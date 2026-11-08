@@ -1,0 +1,12 @@
+[package]
+name = "superleader"
+version = "0.0.1"
+edition = "2024"
+description = "A leader key for the whole desktop: a tree of keys, pickers, prompts and live views in a floating window"
+readme = "README.md"
+repository = "https://github.com/Frankwii/superleader"
+license = "GPL-3.0-only"
+keywords = ["cli", "keybindings", "launcher", "tui", "desktop"]
+categories = ["command-line-utilities"]
+
+[dependencies]
